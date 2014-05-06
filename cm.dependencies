@@ -12,11 +12,11 @@
     "target_path": "device/samsung/msm8960-common"
   },
   {
-    "repository": "android_device_samsung_klte",
+    "repository": "nvan7891pp/android_device_samsung_klte-1",
     "target_path": "device/samsung/klte"
   },
    {
-    "repository": "android_kernel_samsung_klte",
+    "repository": "sleshepic/android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte"
   },
   {
